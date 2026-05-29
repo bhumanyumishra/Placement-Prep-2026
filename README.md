@@ -28,3 +28,11 @@ bullets:-
 - item 1
 - item 2
 inline code- `git add .`
+
+## Current Focus
+- DSA
+- OS
+- CN
+- DBMS
+- OOPs
+- Aptitude
