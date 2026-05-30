@@ -36,5 +36,3 @@ inline code- `git add .`
 - DBMS
 - OOPs
 - Aptitude
-
-trying to induce conflict
