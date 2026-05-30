@@ -28,6 +28,15 @@ bullets:-
 - item 1
 - item 2
 inline code- `git add .`
+for code- 
+```cpp
+#include<iostream>
+using namespace std;
+int main{
+  return 0;    
+}
+```
+
 
 ## Current Focus
 - DSA
@@ -36,3 +45,10 @@ inline code- `git add .`
 - DBMS
 - OOPs
 - Aptitude
+
+## GitHub Learning Progress
+
+- Learned commits
+- Learned branching
+- Learned merging
+- Learning Pull Requests
